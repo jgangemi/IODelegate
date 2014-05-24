@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map IODelegate
+#######################################
+
+#######################################
+#	Datatypes	(KEYWORD1)
+#######################################
+
+IODelegate	KEYWORD1
+
+#######################################
+#	Methods	and	Functions	(KEYWORD2)
+####################################### 
+
+debug	KEYWORD2
+error	KEYWORD2
+init	KEYWORD2
+print	KEYWORD2
+println	KEYWORD2
+
+#######################################
+#	Instances	(KEYWORD2)
+#######################################
+
+ioDelegate	KEYWORD2
+
+#######################################
+#	Constants	(LITERAL1)
+#######################################
+
+LOG_LEVEL_ERROR	LITERAL1
+LOG_LEVEL_DEBUG	LITERAL1
